@@ -2,8 +2,10 @@
 =========
 
 -----------------------------------------
-Dilip Puri, Murtuza Bohra, Sonu Patidar
+Contributors: Dilip Puri, Murtuza Bohra, Sonu Patidar
+-
 Mentor: Prof. Gautam Dutta DAIICT
+-
 Indian Institute of Information Technology, Vadodara
 ------------------------------------------------------
 
